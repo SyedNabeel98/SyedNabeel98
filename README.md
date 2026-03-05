@@ -1,6 +1,6 @@
 <h2>Hey, I'm Syed Nabeel 👋</h2>
 
- Cybersecurity Graduate — Coventry University (BSc Hons Cyber Security)
+ Final Year (BSc Hons) Cyber Security Student Singapore — Coventry University (BSc Hons Cyber Security)
  Based in Singapore | Open to Penetration Testing & Red Team roles
 
 ---
