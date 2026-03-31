@@ -29,9 +29,7 @@
 ---
 
 ###  Certifications
-
-- 🟡 **PNPT** — In Progress (TCM Security)
-- ⬜ **OSCP** — Planned (Offensive Security)
+- ⬜ **OSCP** — In Progress (Offensive Security)
 
 ---
 
